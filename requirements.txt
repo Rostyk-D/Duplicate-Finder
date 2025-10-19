@@ -1,0 +1,6 @@
+streamlit
+Pillow
+imagehash
+send2trash
+opencv-python
+tqdm
