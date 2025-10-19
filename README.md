@@ -2,6 +2,7 @@
 
 **Duplicate Finder** is an application on **Streamlit** that automatically finds duplicate images and videos using **perceptual hashes (pHash)**.
 The program supports multiprocessing, caching of results, and a convenient interface for viewing and removing duplicates.
+<img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/e5f6357a-ba1c-4cbf-a691-470c5474e196" />
 
 ---
 
