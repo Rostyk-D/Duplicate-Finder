@@ -61,7 +61,7 @@ pip install streamlit pillow imagehash opencv-python send2trash
 
 ### 2️⃣ Run the application
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 ---
@@ -95,7 +95,7 @@ streamlit run main.py
 ```
 duplicate_finder/
 │
-├── main.py              # Main program file
+├── app.py               # Main program file
 ├── streamlit_uploads/   # Temporary upload files
 ├── requirements.txt     # Dependency list
 └── README.md            # Project description
